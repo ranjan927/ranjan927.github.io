@@ -8,14 +8,6 @@
   width:1170px;
   margin:auto;	
 } 
-header
-{
-  background:url("images/tu2.jpg"); 
-  height:100vh;
- -webkit-background-size:cover;
-  background-position:center center;
-  postion:relative; 
-}
  .nav-area
 {
 float: right;
@@ -76,4 +68,9 @@ color:  #fff;
 background: #fff;
 color:#333;
 }
+html
+{
+background-color: red;
+}
+  	
      

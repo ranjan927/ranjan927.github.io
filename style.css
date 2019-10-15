@@ -68,6 +68,11 @@ color:  #fff;
 background: #fff;
 color:#333;
 }
+ul li.active a 
+{
+background: #fff;
+ color: #333;
+}
 html
 {
 background-color:#85929E;
